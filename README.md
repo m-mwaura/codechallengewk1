@@ -1,6 +1,6 @@
-****### Introduction****
+****# Introduction****
 
-***#Here are the instructions to follow***
+***##Here are the instructions to follow***
 1. Create a repository on your GitHub account. NB: One folder, with 3-4 files for each solution. Please note that a single file should only hold one solution.
 2. Use JavaScript to wire down the solution.
 3. Push the solution to the above repository once done.
@@ -16,7 +16,7 @@ Write a function that prompts the user to input student marks. The input should 
         
 A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
 
-**#solution**
+**###solution**
 
 Declare a function with a parameter that will be used for the argument of marks and determined grades based on conditions
 
@@ -34,7 +34,7 @@ Write a program that takes the speed of a car as input e.g 80. If the speed is l
 
 For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
 
-**#solution**
+**###solution**
 
 Declare a function with a parameter that will be used for the argument of speed and determine points on based conditions
 
@@ -51,7 +51,7 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 
 NB: Use KRA, NHIF, and NSSF values provided
 
-**#Solution**
+**###Solution**
 
 Use functions, variables and conditional statements to calculate the paye based on the data structure provided
 
